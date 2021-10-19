@@ -1,2 +1,2 @@
-# Ordena-oExterna
+# Ordenação Externa
 Algoritmo de ordenação externa
